@@ -70,7 +70,3 @@ Test/
 
 - Support organizing files inside subfolders.
 - Allow the user to choose the location for the `Organized_Files` folder
-
-## 👤 Author
-
-Developed as part of a Python learning portfolio.
